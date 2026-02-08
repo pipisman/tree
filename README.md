@@ -1,5 +1,5 @@
 
-# Pixel art Procedural tree generator
+# Pixel art procedural tree generator
 
 
 ![hippo](http://peshovsko.party/tree.gif)
